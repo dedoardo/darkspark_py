@@ -4,4 +4,6 @@
 - Pygame for Python 2.7
 
 ### To Run : 
->>> python game.py
+```
+python game.py
+```
