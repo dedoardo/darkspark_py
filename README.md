@@ -1,9 +1,9 @@
 # Darkspark
-###Requires :
+####Requires :
 - Python 2.7
 - Pygame for Python 2.7
 
-### To Run : 
+#### To Run : 
 ```
 python game.py
 ```
